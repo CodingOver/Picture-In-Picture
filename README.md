@@ -4,6 +4,8 @@
 
 - The Picture-in-Picture API allow websites to create a floating video window always on top of other windows so that users may continue consuming media while they interact with other content sites, or applications on their device.
 
+- Picture-in-Picture (PiP) allows you to watch videos in a floating window (always on top of other windows) so you can keep an eye on what you’re watching while interacting with other sites, or applications.
+
 ### Preview
 
 [Picture In Picture](https://codingover.github.io/Picture-In-Picture/)
